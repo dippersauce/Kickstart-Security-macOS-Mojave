@@ -2,7 +2,7 @@
 Kickstart Security: macOS Mojave, covers generalized topics regarding the security of Macs in a touch and go fashion. The foundations are set, and relevant bricks laid out to build up your knowledge. The Kickstart Security series values brevity, focusing on the info you need to start securing Macs as fast as possible.
 
 # Contributing
-The book is supplied in a variety of formats, but the empirical copy is the plain text file. All the other formats are dervied from it. To report inaccuracies or grammatical errors, sumbit a bug report containing the page and line number, with an excerpt of the relavent text.
+The book is supplied in a variety of formats, but the empirical copy is the rich text file. All the other formats are dervied from it. To report inaccuracies or grammatical errors, sumbit a bug report containing the page and line number, with an excerpt of the relavent text.
 
 To submit additions, deletions, or modifications, clone the repo and create a pull request with the desired changes. Requests may be denied for any reason, but you are free to create a derivitive work so long as the license terms are honored.
 
